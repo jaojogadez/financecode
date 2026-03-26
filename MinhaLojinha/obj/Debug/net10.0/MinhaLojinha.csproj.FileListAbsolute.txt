@@ -1,0 +1,9 @@
+/workspaces/financecode/MinhaLojinha/obj/Debug/net10.0/MinhaLojinha.csproj.AssemblyReference.cache
+/workspaces/financecode/MinhaLojinha/obj/Debug/net10.0/rpswa.dswa.cache.json
+/workspaces/financecode/MinhaLojinha/obj/Debug/net10.0/MinhaLojinha.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/financecode/MinhaLojinha/obj/Debug/net10.0/MinhaLojinha.AssemblyInfoInputs.cache
+/workspaces/financecode/MinhaLojinha/obj/Debug/net10.0/MinhaLojinha.AssemblyInfo.cs
+/workspaces/financecode/MinhaLojinha/obj/Debug/net10.0/MinhaLojinha.csproj.CoreCompileInputs.cache
+/workspaces/financecode/MinhaLojinha/obj/Debug/net10.0/MinhaLojinha.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/financecode/MinhaLojinha/obj/Debug/net10.0/MinhaLojinha.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/financecode/MinhaLojinha/obj/Debug/net10.0/MinhaLojinha.sourcelink.json
